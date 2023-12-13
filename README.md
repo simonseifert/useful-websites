@@ -37,6 +37,7 @@ AI tools:
 - dimeadozen.ai - instantly Validate Any Business Idea
 - cheatlayer.com - Search community library of product, marketing, and sales agents
 - makereal.tldraw.com - collaborative digital whiteboard
+- flux.ai - Build PCBs faster with an AI
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
