@@ -138,7 +138,13 @@ Audio/music/sound/TTS related sites:
 - melobytes.com/en - AI that does music from images and other stuff
 - findflac.com - .flac music
 - noisli.com — ambient noises to help you improve focus and boost productivity
-    
+
+Web dev:
+- shadergradient.co - create beautiful, moving gradients
+- lottielab.com - motion design tool, Create and edit lottie animations
+- dark.design - best hand-picked dark themed websites
+- mingcute.com - set of simple and exquisite open-source icon library
+
 Uncategorized sites:
 - academicresourcecenter.harvard.edu - resources to support academic experience
 - mymaps.google.com – create custom Google Maps with scribbles, pins and custom shapes
