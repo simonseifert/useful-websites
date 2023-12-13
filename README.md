@@ -56,7 +56,7 @@ Image, document, presentation (editors, generators etc.):
 - gifcities.org - The GeoCities Animated GIF Search Engine
 - ezgif.com - gif editor and maker, super useful
 - drive.google.com/drive/folders/0B_VmbVyD4eT3N1VUbGN4Wjd5OVE - Old Gdrive with anime vectors
-- https://www10.flamingtext.com - Free logo Design & Name Generator
+- flamingtext.com - Free logo Design & Name Generator
 - remove.bg/ - Automagically remove backgrounds from images. Not 100% but shockingly good
 - waifu.lofiu.com- Convert your selfie to waifu
 - imgops.com/ - image tools
