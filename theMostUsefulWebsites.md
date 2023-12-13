@@ -1,23 +1,23 @@
 The Most Useful Websites and Web Apps
   
 AI tools:
-	clipdrop.co - create stunning visuals in seconds
-	watermarkremover.io - online watermark remover
-	klap.app - turn YouTube videos into viral shorts
-	synthesia.io - Turn your text into videos in minutes
-    studyfetch.com - Create and chat with AI from your course material in seconds
-    heygen.com - AI-powered video creations at scale, AI-generated avatars and voices
-    jasper.ai - AI copilot for enterprise marketing teams
-    jasper.ai/art - AI art generator who turns whatever you can imagine into unique images
-    donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
-    spacelogo.ai - AI-Powered Logo and Website Creation in Seconds
-    ora.ai - custom chatbot, The largest library of community generated Chatbots
-    meetcody.ai - Your AI Assistant for Business
-    myjotbot.com - Take notes, ideate, and edit your documents, Your Voice, Your Sources
-    unscreen.com - Remove Video Background
-    kipper.ai - Simplify Your Schoolwork with AI
-    writehuman.ai - Bypass AI detection with AI Humanizer
-    yep.so - landing page builder
+- clipdrop.co - create stunning visuals in seconds
+- watermarkremover.io - online watermark remover
+- klap.app - turn YouTube videos into viral shorts
+- synthesia.io - Turn your text into videos in minutes
+- studyfetch.com - Create and chat with AI from your course material in seconds
+- heygen.com - AI-powered video creations at scale, AI-generated avatars and voices
+- jasper.ai - AI copilot for enterprise marketing teams
+- jasper.ai/art - AI art generator who turns whatever you can imagine into unique images
+- donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
+- spacelogo.ai - AI-Powered Logo and Website Creation in Seconds
+- ora.ai - custom chatbot, The largest library of community generated Chatbots
+- meetcody.ai - Your AI Assistant for Business
+- myjotbot.com - Take notes, ideate, and edit your documents, Your Voice, Your Sources
+- unscreen.com - Remove Video Background
+- kipper.ai - Simplify Your Schoolwork with AI
+- writehuman.ai - Bypass AI detection with AI Humanizer
+- yep.so - landing page builder
 
 Image, document, presentation (editors, generators etc.):
     photopea.com - Basically photoshop but online
