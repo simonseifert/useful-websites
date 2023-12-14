@@ -150,6 +150,7 @@ Web dev:
 - webflow.com - Build with the power of code — without writing any
 - squarespace.com - website builder
 - pagesmack.com - yet another website builder
+- v0.dev - Vercel templates
 
 Uncategorized sites:
 - academicresourcecenter.harvard.edu - resources to support academic experience
