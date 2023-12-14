@@ -38,6 +38,9 @@ AI tools:
 - cheatlayer.com - Search community library of product, marketing, and sales agents
 - makereal.tldraw.com - collaborative digital whiteboard
 - flux.ai - Build PCBs faster with an AI
+- messengerx.io - AI Characters
+- blaze.ai - AI content creator for blogs
+- sourcegraph.com/cody - coding AI assistant
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
@@ -144,6 +147,9 @@ Web dev:
 - lottielab.com - motion design tool, Create and edit lottie animations
 - dark.design - best hand-picked dark themed websites
 - mingcute.com - set of simple and exquisite open-source icon library
+- webflow.com - Build with the power of code — without writing any
+- squarespace.com - website builder
+- pagesmack.com - yet another website builder
 
 Uncategorized sites:
 - academicresourcecenter.harvard.edu - resources to support academic experience
@@ -151,6 +157,7 @@ Uncategorized sites:
 - cadmapper.com - Instant CAD files for any location on earth
 - archive.is — snapshot of any web page and it will be exist forever
 - archive.org - archived version of a web page
+- nuelink.com - plan, automate and manage your social media
 - dictation.io – accurate and quick voice recognition in your browser itself
 - codeacademy.com – the best place to learn coding online
 - iconfinder.com – millions of icons, also try icons8.com and flaticon.com
