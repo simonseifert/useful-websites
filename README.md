@@ -42,6 +42,9 @@ AI tools:
 - blaze.ai - AI content creator for blogs
 - sourcegraph.com/cody - coding AI assistant
 - leonardo.ai - Create production-quality visual assets
+- wideo.co/ai-video-generator/ - Generate Narrated Videos
+- beautiful.ai - generate presentations
+- axiom.ai - Browser Automation with bots
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
