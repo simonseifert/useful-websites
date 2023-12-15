@@ -45,6 +45,10 @@ AI tools:
 - wideo.co/ai-video-generator/ - Generate Narrated Videos
 - beautiful.ai - generate presentations
 - axiom.ai - Browser Automation with bots
+- adcreative.ai - AI tool for advertising
+- craiyon.com - Create AI Art
+- zapier.com - Build automated workflows customized for business
+- invideo.io - Create videos
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
@@ -161,6 +165,8 @@ Uncategorized sites:
 - academicresourcecenter.harvard.edu - resources to support academic experience
 - mymaps.google.com – create custom Google Maps with scribbles, pins and custom shapes
 - cadmapper.com - Instant CAD files for any location on earth
+- dropship.io - Discover Winning Products To Sell
+- contentideas.io - Find top performing content around the web
 - archive.is — snapshot of any web page and it will be exist forever
 - archive.org - archived version of a web page
 - nuelink.com - plan, automate and manage your social media
