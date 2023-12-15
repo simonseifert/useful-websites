@@ -41,6 +41,7 @@ AI tools:
 - messengerx.io - AI Characters
 - blaze.ai - AI content creator for blogs
 - sourcegraph.com/cody - coding AI assistant
+- leonardo.ai - Create production-quality visual assets
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
@@ -123,6 +124,7 @@ Books:
 - manybooks.net - free Kindle books and books in other formats
 
 Audio/music/sound/TTS related sites:
+- tunemymusic.com - Transfer Playlists Between Music Services
 - the.wubmachine.com - This will remix any audio file you upload with sometimes pleasing results
 - szynalski.com/tone-generator - Tone generator
 - vo.codes - Cool text to speech with lots of character voices
