@@ -95,6 +95,7 @@ Image, document, presentation (editors, generators etc.):
 - sumopaint.com – an excellent layer-based online image editor
 - vectr.com — create vector graphics and export them as SVG or PNG files
 - tineye.com - reverse image search engine
+- gridit.io - Logo Grid Generator
     
 Text:
 - ispravi.me - (CRO) hrvatski akademski strojni provjernik pravopisa
