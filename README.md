@@ -50,6 +50,13 @@ AI tools:
 - zapier.com - Build automated workflows customized for business
 - invideo.io - Create videos
 - mangoai.co - Discover the best in AI, Search thousands of AI Tools
+- ideogram.ai - AI image and art generator
+- archi.ai - Design Your Interior & Exterior With AI
+- roomsgpt.io - Design Your Dream Space
+- 10web.io - website creator and hosting
+- scribehow.com - turn any process into a step-by-step guide
+- krea.ai - image generation
+- mikrotakt.app - AI Audio Splitter & Vocal Remover
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
@@ -171,6 +178,7 @@ Uncategorized sites:
 - contentideas.io - Find top performing content around the web
 - archive.is — snapshot of any web page and it will be exist forever
 - archive.org - archived version of a web page
+- shodan.io - search engine for Internet-connected devices
 - nuelink.com - plan, automate and manage your social media
 - dictation.io – accurate and quick voice recognition in your browser itself
 - codeacademy.com – the best place to learn coding online
