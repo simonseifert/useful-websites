@@ -49,6 +49,7 @@ AI tools:
 - craiyon.com - Create AI Art
 - zapier.com - Build automated workflows customized for business
 - invideo.io - Create videos
+- mangoai.co - Discover the best in AI, Search thousands of AI Tools
 
 Image, document, presentation (editors, generators etc.):
 - photopea.com - Basically photoshop but online
