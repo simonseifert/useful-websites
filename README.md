@@ -9,10 +9,12 @@ The most useful websites on the internet
 - ora.ai - custom chatbot, The largest library of community generated Chatbots
 - blackbox.ai - coding LLM designed for building software
 - meetcody.ai - Your AI Assistant for Business
+- agentgpt.reworkd.ai - ai agent for web scraping
+- perplexity.ai - chatbot-style search engine, answers questions
+- myaskai.com - create AI assistant or chatbot, AI customer service
 
 
 # AI tools:
-- jasper.ai - AI copilot for enterprise marketing teams
 - donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
 - myjotbot.com - Take notes, ideate, and edit your documents, Your Voice, Your Sources
 - kipper.ai - Simplify Your Schoolwork with AI
@@ -33,12 +35,24 @@ The most useful websites on the internet
 - adcreative.ai - AI tool for advertising
 - craiyon.com - Create AI Art
 - zapier.com - Build automated workflows customized for business
+- make.com - automation of tasks easy
 - mangoai.co - Discover the best in AI, Search thousands of AI Tools
 - archi.ai - Design Your Interior & Exterior With AI
 - roomsgpt.io - Design Your Dream Space
-- mikrotakt.app - AI Audio Splitter & Vocal Remover
+- virtualprofessor.io - answear quizes, exam questions, homework
+- fireflies.ai - transcribe, summarize, search, and analyze voice conversations
+- airgram.io - record, transcribe, summarize, and share meeting conversations
+- loom.com - screen recording and video messaging tool
+- plusdocs.com - Generate AI presentations and edit slides with AI
+- decktopus.com -  AI-Powered Presentation Generator
+- letsrecast.ai - Turn articles into audio summaries/podcasts
+- julius.ai - personal data analysis tool, analyzing structured data
+- polymersearch.com - business intelligence app, data analysis and dashboarding
+- taskade.com - AIO note-taking, project and task management and scheduling
+
 
 # Content creation:
+- jasper.ai - AI copilot for enterprise marketing teams
 - klap.app - turn YouTube videos into viral shorts
 - jibyte.com - All-in-one platform to generate AI content
 - pictalio.com - vertical videos for social media
@@ -46,10 +60,15 @@ The most useful websites on the internet
 - bhuman.ai - create a digital version of yourself
 - scribehow.com - turn any process into a step-by-step guide
 - blaze.ai - AI content creator for blogs
+- syllaby.io - Effortless Video Marketing
+- visme.co - Create anything, all-in-one marketing and design platform
+- anyword.com - AI Performance Writing Platform For Marketing
+
 
 # Image, video and presentation generation:
 - bing.com/images/create - Create images from words with AI (DALL·E 3)
-- typeframes.com - Text to Video
+- typeframes.com - AI video creation tool, Text to Video
+- descript.com - another video creation tool
 - clipdrop.co - create stunning visuals in seconds
 - synthesia.io - Turn your text into videos in minutes
 - heygen.com - AI-powered video creations at scale, AI-generated avatars and voices
@@ -57,6 +76,7 @@ The most useful websites on the internet
 - spacelogo.ai - AI-Powered Logo and Website Creation in Seconds
 - krea.ai - image generation
 - ideogram.ai - AI image and art generator
+- midjourney.com - image generation
 - openjourney.art - text-to-image diffusion model that makes AI art images
 - makewordart.com - Classic Wordart generator
 - gridit.io - Logo Grid Generator
@@ -76,6 +96,8 @@ The most useful websites on the internet
 - submagic.co - Create viral videos in seconds
 - invideo.io - Create videos
 - wideo.co/ai-video-generator - Generate Narrated Videos
+- shadergradient.co - create beautiful, moving gradients
+
 
 # Image, document and presentation editors:
 - watermarkremover.io - online watermark remover
@@ -111,7 +133,9 @@ The most useful websites on the internet
 - sumopaint.com – an excellent layer-based online image editor
 - tineye.com - reverse image search engine
 
+
 # Text:
+- deepl.com - high-quality translations
 - zalgo.org - turns your normal text into crazy and creepy text
 - onlinetexttools.com - Useful text tools.
 - ascii-art-generator.org - Ascii Art creator
@@ -130,7 +154,30 @@ The most useful websites on the internet
 - hemingwayapp.com - Paste the text to see the readability score and suggested edits
 - diffchecker.com - different between two sets of text or documents
 - dillinger.io - online Markdown editor that's also mobile-friendly
+- lingua.vercel.app - translator
 - ispravi.me - hrvatski akademski strojni provjernik pravopisa
+
+
+# Web dev:
+- wearedevelopers.com - Europe’s #1 Developer Community, blog
+- lottielab.com - motion design tool, Create and edit lottie animations
+- dark.design - best hand-picked dark themed websites
+- mingcute.com - set of simple and exquisite open-source icon library
+- webflow.com - Build with the power of code — without writing any
+- squarespace.com - website builder
+- pagesmack.com - yet another website builder
+- v0.dev - Vercel templates
+- yep.so - landing page builder
+- 10web.io - website creator and hosting
+- github.com/features/copilot - AI developer tool, auto-complete suggestion
+- tabnine.com - AI assistant, auto-complete code suggestions
+- bito.ai - AI assistant tool
+- marketplace.visualstudio.com/items?itemName=mintlify.document - Doc Writer
+- https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt
+- https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi
+- https://marketplace.visualstudio.com/items?itemName=pcsoftware.readable
+- https://marketplace.visualstudio.com/items?itemName=denigmaapp.denigma
+
 
 # Books:
 - libgen.rs - It’s a massive book, scientific journal and all their articles, comics etc. site
@@ -144,6 +191,7 @@ The most useful websites on the internet
 - hundredzeros.com – the site lets you download free Kindle books
 - wikibooks.org - giant collection of online textbooks that anyone can edit
 - manybooks.net - free Kindle books and books in other formats
+
 
 # Audio and music:
 - tunemymusic.com - Transfer Playlists Between Music Services
@@ -165,18 +213,9 @@ The most useful websites on the internet
 - melobytes.com/en - AI that does music from images and other stuff
 - findflac.com - .flac music
 - noisli.com — ambient noises to help you improve focus and boost productivity
+- songslikex.com - automatically generate a Spotify playlist with similar songs
+- mikrotakt.app - AI Audio Splitter & Vocal Remover
 
-# Web dev:
-- shadergradient.co - create beautiful, moving gradients
-- lottielab.com - motion design tool, Create and edit lottie animations
-- dark.design - best hand-picked dark themed websites
-- mingcute.com - set of simple and exquisite open-source icon library
-- webflow.com - Build with the power of code — without writing any
-- squarespace.com - website builder
-- pagesmack.com - yet another website builder
-- v0.dev - Vercel templates
-- yep.so - landing page builder
-- 10web.io - website creator and hosting
 
 # Uncategorized sites:
 - academicresourcecenter.harvard.edu - resources to support academic experience
@@ -462,6 +501,13 @@ The most useful websites on the internet
 - planetsuzy.org/ 21 - PlanetSuzy (well organized, but the search tool not only sucks)
 - amCharts.com - Free and customizable JavaScript charts, maps, and timelines
 - aiplex.lol - courses, tutorials
+- onlineocr.net - IMAGE TO TEXT CONVERTER, Optical Character Recognition
+- tinywow.com - PDF, video, image and other online tools
+
+
+# Stores
+- electroniccats.com
+- shop.hak5.org
 - wlwyb.com
 - webrick.com
 - techweargiants.com
