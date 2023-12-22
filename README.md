@@ -2,72 +2,90 @@
 The most useful websites on the internet
 
 
-
-AI tools:
-- clipdrop.co - create stunning visuals in seconds
-- watermarkremover.io - online watermark remover
-- klap.app - turn YouTube videos into viral shorts
-- synthesia.io - Turn your text into videos in minutes
+# AI chatbots:
+- claude.ai - 75,000-word limit chatGPT alternative
+- bard.google.com - google's chat-gpt alternative
 - studyfetch.com - Create and chat with AI from your course material in seconds
-- heygen.com - AI-powered video creations at scale, AI-generated avatars and voices
-- jasper.ai - AI copilot for enterprise marketing teams
-- jasper.ai/art - AI art generator who turns whatever you can imagine into unique images
-- donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
-- spacelogo.ai - AI-Powered Logo and Website Creation in Seconds
 - ora.ai - custom chatbot, The largest library of community generated Chatbots
+- blackbox.ai - coding LLM designed for building software
 - meetcody.ai - Your AI Assistant for Business
+
+
+# AI tools:
+- jasper.ai - AI copilot for enterprise marketing teams
+- donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
 - myjotbot.com - Take notes, ideate, and edit your documents, Your Voice, Your Sources
-- unscreen.com - Remove Video Background
 - kipper.ai - Simplify Your Schoolwork with AI
 - writehuman.ai - Bypass AI detection with AI Humanizer
-- yep.so - landing page builder
-- jibyte.com - All-in-one platform to generate AI content
-- openjourney.art - text-to-image diffusion model that makes AI art images
-- pictalio.com - vertical videos for social media
-- neontools.io - All-in-One Social media Toolbox
-- bard.google.com - chat-gpt alternative
 - glitching.ai - Dropshipping With AI
 - chatdev.ai - virtual software company
-- blackbox.ai - coding LLM designed for building software
 - hey.marketingblocks.ai - AI Assistant for marketing
 - podcast.adobe.com - AI-powered audio tools that elevate your voice
-- bhuman.ai - create a digital version of yourself
-- submagic.co - Create viral videos in seconds
 - drippi.ai - AI assistant for Twitter DMs
 - dimeadozen.ai - instantly Validate Any Business Idea
 - cheatlayer.com - Search community library of product, marketing, and sales agents
 - makereal.tldraw.com - collaborative digital whiteboard
 - flux.ai - Build PCBs faster with an AI
 - messengerx.io - AI Characters
-- blaze.ai - AI content creator for blogs
 - sourcegraph.com/cody - coding AI assistant
 - leonardo.ai - Create production-quality visual assets
-- wideo.co/ai-video-generator/ - Generate Narrated Videos
-- beautiful.ai - generate presentations
 - axiom.ai - Browser Automation with bots
 - adcreative.ai - AI tool for advertising
 - craiyon.com - Create AI Art
 - zapier.com - Build automated workflows customized for business
-- invideo.io - Create videos
 - mangoai.co - Discover the best in AI, Search thousands of AI Tools
-- ideogram.ai - AI image and art generator
 - archi.ai - Design Your Interior & Exterior With AI
 - roomsgpt.io - Design Your Dream Space
-- 10web.io - website creator and hosting
-- scribehow.com - turn any process into a step-by-step guide
-- krea.ai - image generation
 - mikrotakt.app - AI Audio Splitter & Vocal Remover
 
-Image, document, presentation (editors, generators etc.):
-- photopea.com - Basically photoshop but online
+# Content creation:
+- klap.app - turn YouTube videos into viral shorts
+- jibyte.com - All-in-one platform to generate AI content
+- pictalio.com - vertical videos for social media
+- neontools.io - All-in-One Social media Toolbox
+- bhuman.ai - create a digital version of yourself
+- scribehow.com - turn any process into a step-by-step guide
+- blaze.ai - AI content creator for blogs
+
+# Image, video and presentation generation:
+- bing.com/images/create - Create images from words with AI (DALL·E 3)
+- typeframes.com - Text to Video
+- clipdrop.co - create stunning visuals in seconds
+- synthesia.io - Turn your text into videos in minutes
+- heygen.com - AI-powered video creations at scale, AI-generated avatars and voices
+- jasper.ai/art - AI art generator who turns whatever you can imagine into unique images
+- spacelogo.ai - AI-Powered Logo and Website Creation in Seconds
+- krea.ai - image generation
+- ideogram.ai - AI image and art generator
+- openjourney.art - text-to-image diffusion model that makes AI art images
 - makewordart.com - Classic Wordart generator
+- gridit.io - Logo Grid Generator
+- vectr.com — create vector graphics and export them as SVG or PNG files
+- powtoon.com — create engaging whiteboard videos and presentations with your own voiceovers
+- beautiful.ai - generate presentations
+- spark.adobe.com — make stunning video presentations with voice narration and wow everyone
+- kleki.com – create paintings and sketches with a wide variety of brushes
+- talltweets.com — Turn Google Slides in animated GIF presentations
+- flamingtext.com - Free logo Design & Name Generator
+- autodraw.com - create freehand doodles and watch them magically transform into beautiful drawing
+- canva.com — make beautiful graphics, presentations, resumes and more with readymade template
+- slides.com — create pixel-perfect slide decks and broadcast your presentations
+- marvelapp.com — create interactive wireframes and product mockups
 - jspaint.app - Classic paint with some interesting features added
+- draw.io – create diagrams, wireframe and flowcharts in the browser
+- submagic.co - Create viral videos in seconds
+- invideo.io - Create videos
+- wideo.co/ai-video-generator - Generate Narrated Videos
+
+# Image, document and presentation editors:
+- watermarkremover.io - online watermark remover
+- unscreen.com - Remove Video Background
+- photopea.com - Basically photoshop but online
 - snorpey.github.io/jpg-glitch - Glitch your images
 - photomosh.com - Glitch your images some more
 - app.monopro.org/pixel/?lang=en - Pixelart Converter
 - sh00n3m1gur.000webhostapp.com - Random images
 - thisxdoesnotexist.com - A collection of things that don’t exist
-- dreamscopeapp.com - Image effect generator, can be kinda slow
 - trimage.org - Tool to optimize images
 - postimages.org - Just a good site to upload images.
 - cockos.com/licecap - Tool to capture gifs
@@ -76,38 +94,25 @@ Image, document, presentation (editors, generators etc.):
 - gifcities.org - The GeoCities Animated GIF Search Engine
 - ezgif.com - gif editor and maker, super useful
 - drive.google.com/drive/folders/0B_VmbVyD4eT3N1VUbGN4Wjd5OVE - Old Gdrive with anime vectors
-- flamingtext.com - Free logo Design & Name Generator
-- remove.bg/ - Automagically remove backgrounds from images. Not 100% but shockingly good
+- remove.bg - Automagically remove backgrounds from images. Not 100% but shockingly good
 - waifu.lofiu.com- Convert your selfie to waifu
-- imgops.com/ - image tools
-- nik.bot.nu/ - Imageboard scraper, great for wallpapers
-- autodraw.com - create freehand doodles and watch them magically transform into beautiful drawing
+- imgops.com - image tools
+- nik.bot.nu - Imageboard scraper, great for wallpapers
 - unsplash.com – the best place to download images absolutely free
-- draw.io – create diagrams, wireframe and flowcharts in the browser
 - slide.ly — make marketing videos and branded stories
 - flowgram.com — make data-driven graphics, charts and infographics. Also adioma.com eas.ly
-- marvelapp.com — create interactive wireframes and product mockups
 - bubbl.us – create mind-maps, brainstorm ideas in the browser
 - color.adobe.com – get color ideas, also extract colors from photographs
-- canva.com — make beautiful graphics, presentations, resumes and more with readymade template
-- slides.com — create pixel-perfect slide decks and broadcast your presentations
 - screenshot.guru — take high-resolution screenshots of web pages
 - reverse.photos — upload an image and find similar pictures on the web
 - pdfescape.com – lets you quickly edit PDF in the browser without Acrobat
 - translate.google.com – translate web pages, PDFs and Office documents
-- kleki.com – create paintings and sketches with a wide variety of brushes
-- talltweets.com — Turn Google Slides in animated GIF presentations
-- powtoon.com — create engaging whiteboard videos and presentations with your own voiceovers
-- spark.adobe.com — make stunning video presentations with voice narration and wow everyone
 - designer.io — a full-featured vector drawing tool that works everywhere
 - sumopaint.com – an excellent layer-based online image editor
-- vectr.com — create vector graphics and export them as SVG or PNG files
 - tineye.com - reverse image search engine
-- gridit.io - Logo Grid Generator
-    
-Text:
-- ispravi.me - (CRO) hrvatski akademski strojni provjernik pravopisa
-- eeemo.net - Zalgo
+
+# Text:
+- zalgo.org - turns your normal text into crazy and creepy text
 - onlinetexttools.com - Useful text tools.
 - ascii-art-generator.org - Ascii Art creator
 - asciiart.club - ASCII Art Generator
@@ -116,7 +121,7 @@ Text:
 - fonts.google.com – the best collection of open source fonts
 - fontstruct.com — draw and build your own fonts and use them in any application
 - calligraphr.com — transform your handwriting into a real font
-- app.grammarly.com — check your writing for spelling, style, andgrammatical errors
+- app.grammarly.com — check your writing for spelling, style, and grammatical errors
 - onlineocr.net – recognize text from scanned PDFs – see other OCR tools
 - privnote.com – create text notes that will self-destruct after being read
 - urbandictionary.com – find definitions of slangs and informal words
@@ -125,8 +130,9 @@ Text:
 - hemingwayapp.com - Paste the text to see the readability score and suggested edits
 - diffchecker.com - different between two sets of text or documents
 - dillinger.io - online Markdown editor that's also mobile-friendly
-    
-Books:
+- ispravi.me - hrvatski akademski strojni provjernik pravopisa
+
+# Books:
 - libgen.rs - It’s a massive book, scientific journal and all their articles, comics etc. site
 - sci-hub.se - Like above with a more pure focus on scientific research papers
 - b-ok.global - E-book library
@@ -139,7 +145,7 @@ Books:
 - wikibooks.org - giant collection of online textbooks that anyone can edit
 - manybooks.net - free Kindle books and books in other formats
 
-Audio/music/sound/TTS related sites:
+# Audio and music:
 - tunemymusic.com - Transfer Playlists Between Music Services
 - the.wubmachine.com - This will remix any audio file you upload with sometimes pleasing results
 - szynalski.com/tone-generator - Tone generator
@@ -160,7 +166,7 @@ Audio/music/sound/TTS related sites:
 - findflac.com - .flac music
 - noisli.com — ambient noises to help you improve focus and boost productivity
 
-Web dev:
+# Web dev:
 - shadergradient.co - create beautiful, moving gradients
 - lottielab.com - motion design tool, Create and edit lottie animations
 - dark.design - best hand-picked dark themed websites
@@ -169,8 +175,10 @@ Web dev:
 - squarespace.com - website builder
 - pagesmack.com - yet another website builder
 - v0.dev - Vercel templates
+- yep.so - landing page builder
+- 10web.io - website creator and hosting
 
-Uncategorized sites:
+# Uncategorized sites:
 - academicresourcecenter.harvard.edu - resources to support academic experience
 - mymaps.google.com – create custom Google Maps with scribbles, pins and custom shapes
 - cadmapper.com - Instant CAD files for any location on earth
