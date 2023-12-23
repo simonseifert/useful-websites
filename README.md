@@ -12,9 +12,11 @@ The most useful websites on the internet
 - agentgpt.reworkd.ai - ai agent for web scraping
 - perplexity.ai - chatbot-style search engine, answers questions
 - myaskai.com - create AI assistant or chatbot, AI customer service
+- pieces.app - productivity tool designed to supercharge developer efficiency
 
 
 # AI tools:
+- digitalsamaritan.co - Top tools curated from every corner of the internet
 - donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
 - myjotbot.com - Take notes, ideate, and edit your documents, Your Voice, Your Sources
 - kipper.ai - Simplify Your Schoolwork with AI
@@ -63,6 +65,15 @@ The most useful websites on the internet
 - syllaby.io - Effortless Video Marketing
 - visme.co - Create anything, all-in-one marketing and design platform
 - anyword.com - AI Performance Writing Platform For Marketing
+- softr.io - Build custom apps for your business
+- pandadoc.com - all-in-one tool for creating, managing, tracking and e-Signing
+- mailerlite.com - Digital marketing tools, landing pages, forms
+- manychat.com - sales and conversions using automation, chat marketing
+- systeme.io - All-In-One Marketing Platform
+- Growman: IG Email Extractor
+- phantombuster.com - Automate your data collection and outreach
+- igleads.io - Scrape Emails From social media platforms
+- nuelink.com - plan, automate and manage your social media
 
 
 # Image, video and presentation generation:
@@ -97,6 +108,7 @@ The most useful websites on the internet
 - invideo.io - Create videos
 - wideo.co/ai-video-generator - Generate Narrated Videos
 - shadergradient.co - create beautiful, moving gradients
+- loom.com - Easily record and share AI-powered video messages
 
 
 # Image, document and presentation editors:
@@ -155,6 +167,7 @@ The most useful websites on the internet
 - diffchecker.com - different between two sets of text or documents
 - dillinger.io - online Markdown editor that's also mobile-friendly
 - lingua.vercel.app - translator
+- smodin.io - All-in-One Writing Essentials
 - ispravi.me - hrvatski akademski strojni provjernik pravopisa
 
 
@@ -226,7 +239,9 @@ The most useful websites on the internet
 - archive.is — snapshot of any web page and it will be exist forever
 - archive.org - archived version of a web page
 - shodan.io - search engine for Internet-connected devices
-- nuelink.com - plan, automate and manage your social media
+- stripe.com - Payments infrastructure
+- fakedetail.com - Fake Details Generator
+- calendly.com - scheduling automation platform
 - dictation.io – accurate and quick voice recognition in your browser itself
 - codeacademy.com – the best place to learn coding online
 - iconfinder.com – millions of icons, also try icons8.com and flaticon.com
