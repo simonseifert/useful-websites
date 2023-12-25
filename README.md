@@ -51,6 +51,7 @@ The most useful websites on the internet
 - julius.ai - personal data analysis tool, analyzing structured data
 - polymersearch.com - business intelligence app, data analysis and dashboarding
 - taskade.com - AIO note-taking, project and task management and scheduling
+- collov.ai - Home redesign
 
 
 # Content creation:
@@ -109,6 +110,7 @@ The most useful websites on the internet
 - wideo.co/ai-video-generator - Generate Narrated Videos
 - shadergradient.co - create beautiful, moving gradients
 - loom.com - Easily record and share AI-powered video messages
+- freepik.com - High-quality photos, videos, vectors, PSD, AI images, icons
 
 
 # Image, document and presentation editors:
@@ -190,6 +192,7 @@ The most useful websites on the internet
 - https://marketplace.visualstudio.com/items?itemName=kodezi.kodezi
 - https://marketplace.visualstudio.com/items?itemName=pcsoftware.readable
 - https://marketplace.visualstudio.com/items?itemName=denigmaapp.denigma
+- homepage.gallery - web design inspiration source
 
 
 # Books:
@@ -520,9 +523,12 @@ The most useful websites on the internet
 - tinywow.com - PDF, video, image and other online tools
 
 
-# Stores
+# Stores and cool products:
 - electroniccats.com
 - shop.hak5.org
+- microlordoperator.com
 - wlwyb.com
 - webrick.com
 - techweargiants.com
+- speedstars.shop
+- rschrono.com
