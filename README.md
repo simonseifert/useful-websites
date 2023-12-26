@@ -13,6 +13,7 @@ The most useful websites on the internet
 - perplexity.ai - chatbot-style search engine, answers questions
 - myaskai.com - create AI assistant or chatbot, AI customer service
 - pieces.app - productivity tool designed to supercharge developer efficiency
+- frederick.ai - Prototype, research, and build your startup
 
 
 # AI tools:
@@ -52,6 +53,11 @@ The most useful websites on the internet
 - polymersearch.com - business intelligence app, data analysis and dashboarding
 - taskade.com - AIO note-taking, project and task management and scheduling
 - collov.ai - Home redesign
+- kopy.app - E-commerce, copy products from Shopify store
+- kittl.com - AI-powered design tools
+- mixo.io - website creation in seconds
+- copy.ai - copywriter, Automate hundreds of sales and marketing to-dos
+- roach.ai - Product Research, E-commerce aio
 
 
 # Content creation:
@@ -79,6 +85,7 @@ The most useful websites on the internet
 
 # Image, video and presentation generation:
 - bing.com/images/create - Create images from words with AI (DALL·E 3)
+- imagine.meta.com - Imagine with Meta AI
 - typeframes.com - AI video creation tool, Text to Video
 - descript.com - another video creation tool
 - clipdrop.co - create stunning visuals in seconds
@@ -146,6 +153,7 @@ The most useful websites on the internet
 - designer.io — a full-featured vector drawing tool that works everywhere
 - sumopaint.com – an excellent layer-based online image editor
 - tineye.com - reverse image search engine
+- photoroom.com - fast AI photo editor
 
 
 # Text:
@@ -193,6 +201,8 @@ The most useful websites on the internet
 - https://marketplace.visualstudio.com/items?itemName=pcsoftware.readable
 - https://marketplace.visualstudio.com/items?itemName=denigmaapp.denigma
 - homepage.gallery - web design inspiration source
+- makeswift.com - visual CMS, next.js integration
+- typedream.com - Build anything, sell anything, web design tool
 
 
 # Books:
@@ -243,6 +253,80 @@ The most useful websites on the internet
 - archive.org - archived version of a web page
 - shodan.io - search engine for Internet-connected devices
 - stripe.com - Payments infrastructure
+- xtiles.app - notion alternative, organization, collaboration
+- templatemonster.com - shopify themes, Website Templates, Plugins, Digital Marketplace
+- fullermoe.com - aio vintage design assets
+- studioaaa.com - design resources, fonts, vectores, files, textures
+- europages.com - find a manufacturer, b2b platform
+- gumroad.com -  start selling digital products, memberships, and more, product manager
+- hvnter.net - fonts, vectors, mock-ups
+- softr.io - Build custom apps, no-code
+- crisp.chat - customer support, all-in-one business messaging platform
+- circle.so - community manager
+- answerthepublic.com - market research, Search Insights
+- klaviyo.com - email/sms, marketing automation platform
+- printify.com - Create and sell custom products
+- tradelle.io - product research
+- sparktoro.com - Reach your customers
+- answersocrates.com - Discover the questions people are asking
+- sketch.metademolab.com - ANIMATED DRAWINGS
+- autods.com - all-in-one dropshipping solution
+- flair.ai - generate stunning product shoots, AI design tool for product photoshoots
+- sharkadz.com - Creating you ecommerce ads
+- waveindex.com - dfesign resources
+- unsplash.com - internet’s source for visuals
+- texturelabs.org - textures for design and art
+- milanote.com - easy-to-use tool to organize your ideas and projects into visual boards
+- videvo.net - Free stock video footage
+- misterhorse.com - High-quality presets, templates and tools to help you create stunning animated videos with ease
+- krotosaudio.com - Sound Design Plugins & Sound Effects
+- pexels.com - free stock photos, royalty free images & videos
+- pixabay.com - royalty-free images
+- mixkit.co - Free assets for video projects
+- prosoundeffects.com/soundq - sound library software, SFX & Music
+- pngwing.com - Transparent background png images for designers
+- productioncrate.com - Everything you need to take your project to the next level
+- getyarn.io - Search by word or phrase for TV, movies, and music clips
+- picryl.com - The World's Largest Public Domain Media Search Engine
+- mockupworld.co - free Mockups, photo-realistic
+- savee.it - Browse and save curated inspiration from all over the world
+- schoolsolver.com - Ask a Question or give answears and earn money
+- spikes.studio - From Long Videos To Viral Clips In 1 click
+- importyeti.com - find company's suppliers
+- ppspy.com - product AI research tool, Track Winning Product
+- playgroundai.com - create and edit images like a pro with ai
+- stockimg.ai - generate ilustrations with ai
+- glideapps.com - Create business software, custom apps
+- listkit.io - B2B Lead Database, verify catch-all & invalid emails
+- promoted.com - Ai-generated ads
+- scite.ai - Ask a question, get an answer backed by real research
+- invideo.io/studio - simplifi video creation with ready-made templates
+- scholarcy.com - AI-powered article summarizer
+- contentedge.com - AI Content Generation & SEO Copywriting Software
+- bertha.ai - WordPress and Chrome AI Co-Pilot, Create engaging content
+- cohesive.so - AI editor
+- voicemod.net - Real-Time Voice Changer
+- namelix.com - Business Name Generator
+- hypefury.com - personal assistant to grow & monetize your 𝕏 (Twitter) audience
+- convertkit.com - growth tools for creators, email, automation, and monetization tools
+- rebrandly.com - Create branded and safe short URLs
+- durable.co - AI that builds a website for you
+- taplio.com/carousel - LinkedIn Carousel posts Generator
+- topazlabs.com - photo and video enhancement software
+- colourlab.ai - Color Engine, Effortless Color Grading
+- learningstudioai.com - online course creation tool
+- venturusai.com - Instant feedback on your business ideas
+- tome.app - AI that moves your ideas forward, Create polished & professional communication
+- text-to-video.vercel.app
+- looka.com -  Design your own brand logo
+- xero.com - Accounting software
+- gainzalgo.com - Trading Algo
+- animaker.com - create Animation and Live-Action videos
+- seoclerk.com - 
+- ahmia.fi - searches hidden services on the Tor network
+- apify.com - Build reliable web scrapers Fast
+- qoruz.com - find, connect and collaborate with the relevant influencers
+- coolors.co -  color palettes and schemes generator
 - fakedetail.com - Fake Details Generator
 - calendly.com - scheduling automation platform
 - dictation.io – accurate and quick voice recognition in your browser itself
