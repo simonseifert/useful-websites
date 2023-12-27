@@ -18,6 +18,8 @@ The most useful websites on the internet
 
 # AI tools:
 - digitalsamaritan.co - Top tools curated from every corner of the internet
+- aitoptools.tools
+- aitop.tools - Discover the best AI tools
 - donotpay.com - AI to help you fight big corporations, protect privacy, find hidden money...
 - myjotbot.com - Take notes, ideate, and edit your documents, Your Voice, Your Sources
 - kipper.ai - Simplify Your Schoolwork with AI
@@ -605,6 +607,43 @@ The most useful websites on the internet
 - aiplex.lol - courses, tutorials
 - onlineocr.net - IMAGE TO TEXT CONVERTER, Optical Character Recognition
 - tinywow.com - PDF, video, image and other online tools
+- gohighlevel.com - Elevate Your Marketing and Sales
+- viralfindr.com - find the best performing content on Instagram
+- meedro.com - Create Viral VIDEO CONTENT & Social Posts
+- repurpose.io - automate your content workflow - one post, multiple platforms
+- digistore24.com - online sales platform, integrated online store, affiliate network, payment
+- socialstocks.co - Create social media posts
+- upscale.media - Upscale Images with AI
+- chatbase.co - Custom ChatGPT for your website
+- huggingface.co - platform where the machine learning community collaborates on models, datasets, and applications
+- seona.usestyle.ai - dedicated AI assistant, specially designed to help businesses like yours optimize their SEO
+- captions.ai - AI powered creative studio
+- gptzero.me - AI detector
+- hitpaw.com - voice changer, sound enhancer, video convert, editor
+- mindluster.com - nline Courses and MOOCs With Free Certificates
+- whatruns.com - Discover what runs a website
+- lensgo.ai - visual studio tools, editor, models
+- ncs.io - free music
+- uppbeat.io free no copyright music
+- audiolibrary.com.co - free music
+- wonsulting.com/networkai - Grow your network, Connect with industry professionals
+- monsterapi.ai - Effortlessly access powerful generative AI models with our auto-scaling APIs
+- blaze.today - Eliminate repetitive typing and mistakes
+- rewardy.io - earn money
+- chatsimple.ai - AI Chatbot for Sales and Support
+- tympanus.net - frontend news, articles, tutorials, design insights, demos, UI animations
+- seoreviewtools.com - real-time Free SEO Tools
+- real-time Free SEO Tools - Run and fine-tune open-source AI models. Deploy custom models at scale
+- gpte.ai - Discover the latest tools and trends in AI, search AI tools
+- pikalabs.org - AI-powered, create animated videos using text or pictures
+- spline.design - design and collaborate in 3d
+- wesbos.com - web dev
+- animista.net - On-Demand CSS Animations Library
+- leetcode.com - enhance your skills, expand your knowledge and prepare for technical interviews
+- pramp.com - Interviewing
+- relume.io - web dev
+- freefrontend.com - web dev
+- https://chromewebstore.google.com/detail/regpt-—-ai-powered-email/pfejjngcceifejbcingpgcklecmchbli
 
 
 # Stores and cool products:
