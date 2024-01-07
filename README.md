@@ -644,8 +644,41 @@ The most useful websites on the internet
 - relume.io - web dev
 - freefrontend.com - web dev
 - https://chromewebstore.google.com/detail/regpt-—-ai-powered-email/pfejjngcceifejbcingpgcklecmchbli
-
-
+- oberlo.com - dropshipping tool for shopify
+- roadmap.sh - community effort to create roadmaps, guides and educational content for developers
+- classcentral.com - Find your next course
+- learn-anything.xyz - learn anything
+- codecombat.com - coding game
+- codingfantasy.com - coding game
+- flukeout.github.io - coding game
+- cssgridgarden.com - coding game
+- mastery.games/flexboxzombies - coding game
+- grow.google/certificates/interview-warmup - prepare for your next interview
+- gamma.app - Generate docs, decks & webpages in seconds
+- landingsite.ai - Build Your Dream Website in Minutes
+- vidnoz.com - Create Free AI Videos in 1 Minute
+- designsystems.com - Design & Development, A design systems publication
+- wonsulting.ai - Your full suite of AI job search
+- scale.com - Power Power Generative AI With Your DataWith Your Data
+- findwhatfont.com - Explore website fonts
+- datanerd.gumroad.com/l/jbpoy - 500+ Places to Promote Your Startup
+- zty.pe - typing game
+- superhuman.com - email and social media tool, calendar
+- piiixy.com/pixybot - creative assistant in Telegram
+- apify.com - build, deploy, and monitor web scraping and browser automation tools
+- excelbot.io/generate - AI-Generated Excel Formula or VBA Code
+- lordicon.com - Access 17,000+ Animated Icons
+- staf.ai - Virtual Employees
+- unriddle.ai - Read faster. Write better
+- klaviyo.com - Power smarter digital relationships
+- botnation.ai/en - Generate more qualified Leads and boost your sales with bots
+- air.ai - virtual phone call bots
+- entrylevel.net - Learn tech skills in 6 week
+- zzzcode.ai - coding website powered by AI
+- opensourcealternative.to - Open Source Alternatives
+- betalist.com - Discover tomorrow's startups, today
+  
+  
 # Stores and cool products:
 - electroniccats.com
 - shop.hak5.org
