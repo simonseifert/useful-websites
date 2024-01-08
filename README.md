@@ -2,18 +2,18 @@
 The most useful websites on the internet
 
 
-# AI chatbots:
-- claude.ai - 75,000-word limit chatGPT alternative
-- bard.google.com - google's chat-gpt alternative
-- studyfetch.com - Create and chat with AI from your course material in seconds
-- ora.ai - custom chatbot, The largest library of community generated Chatbots
-- blackbox.ai - coding LLM designed for building software
-- meetcody.ai - Your AI Assistant for Business
-- agentgpt.reworkd.ai - ai agent for web scraping
-- perplexity.ai - chatbot-style search engine, answers questions
-- myaskai.com - create AI assistant or chatbot, AI customer service
-- pieces.app - productivity tool designed to supercharge developer efficiency
-- frederick.ai - Prototype, research, and build your startup
+## AI Chatbots:
+- [claude.ai](https://claude.ai) - 75,000-word limit chatGPT alternative (Freemium)
+- [bard.google.com](https://bard.google.com) - Google's ChatGPT alternative (Free)
+- [studyfetch.com](https://studyfetch.com) - Create and chat with AI from your course material in seconds (Free)
+- [ora.ai](https://ora.ai) - Custom chatbot, the largest library of community-generated chatbots (Freemium)
+- [blackbox.ai](https://blackbox.ai) - Coding LLM designed for building software (Freemium)
+- [meetcody.ai](https://meetcody.ai) - Your AI Assistant for Business (Freemium)
+- [agentgpt.reworkd.ai](https://agentgpt.reworkd.ai) - AI agent for web scraping (Freemium)
+- [perplexity.ai](https://perplexity.ai) - Chatbot-style search engine, answers questions (Freemium)
+- [myaskai.com](https://myaskai.com) - Create AI assistant or chatbot, AI customer service (Freemium)
+- [pieces.app](https://pieces.app) - Productivity tool designed to supercharge developer efficiency (Free)
+- [frederick.ai](https://frederick.ai) - Prototype, research, and build your startup (Freemium)
 
 
 # AI tools:
